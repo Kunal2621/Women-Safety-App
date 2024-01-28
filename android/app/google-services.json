@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282957385491",
+    "project_id": "women-sefty-app",
+    "storage_bucket": "women-sefty-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282957385491:android:6f57c86b848e15704f54e6",
+        "android_client_info": {
+          "package_name": "com.example.sefty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282957385491-ctjkf3qgmp5vdtusuugjcpistnm0s01o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCTZJmrEsLbgqP3NTP7I5d2af_MNTrLxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282957385491-ctjkf3qgmp5vdtusuugjcpistnm0s01o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
